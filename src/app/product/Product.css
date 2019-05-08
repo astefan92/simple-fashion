@@ -1,0 +1,14 @@
+.media {
+    height: 210px;
+    width: 255px;
+}
+
+.card { 
+    max-width: 345px;
+    display: inline-flex;
+    margin: 10px;
+}
+
+.products {
+    margin-top: 65px;
+}
